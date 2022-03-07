@@ -1,0 +1,6 @@
+/target
+/a.out
+/Cargo.lock
+/database.db 
+/example.db
+/test.db
